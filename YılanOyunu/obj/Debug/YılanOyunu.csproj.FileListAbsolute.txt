@@ -1,0 +1,10 @@
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\bin\Debug\YılanOyunu.exe.config
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\bin\Debug\YılanOyunu.exe
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\bin\Debug\YılanOyunu.pdb
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\obj\Debug\YılanOyunu.csproj.AssemblyReference.cache
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\obj\Debug\YılanOyunu.Form1.resources
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\obj\Debug\YılanOyunu.Properties.Resources.resources
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\obj\Debug\YılanOyunu.csproj.GenerateResource.cache
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\obj\Debug\YılanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\obj\Debug\YılanOyunu.exe
+C:\Users\ZAHİDE\Desktop\YAZILIM\C# Projelerim\YılanOyunu\obj\Debug\YılanOyunu.pdb
